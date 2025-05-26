@@ -21,13 +21,10 @@ The current version is tailored for working with survey data from **Dupnisa Cave
 - ggplot2
 - SQL data parsing (custom)
 
----
-
 ## Demo
 
-Try the live demo here: [https://your-shinyapps-link.shinyapps.io/cave-survey-viewer]([https://your-shinyapps-link.shinyapps.io/cave-survey-viewer](https://aarday.shinyapps.io/cave-map-shiny/))
+Try the live demo here: [Cave Survey Viewer](https://aarday.shinyapps.io/cave-map-shiny/)
 
----
 
 ## Screenshot
 

@@ -25,7 +25,7 @@ The current version is tailored for working with survey data from **Dupnisa Cave
 
 ## Demo
 
-Try the live demo here: [https://your-shinyapps-link.shinyapps.io/cave-survey-viewer](https://your-shinyapps-link.shinyapps.io/cave-survey-viewer)
+Try the live demo here: [https://your-shinyapps-link.shinyapps.io/cave-survey-viewer]([https://your-shinyapps-link.shinyapps.io/cave-survey-viewer](https://aarday.shinyapps.io/cave-map-shiny/))
 
 ---
 
